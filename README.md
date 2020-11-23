@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajgrande924/go-tls/master/assets/logo_readme.png" alt="Logo" width="100" height="100" />
 </p>
-<h2 align="center">@ajdev/go-tls</h2>
+<h2 align="center">ajgrande924/go-tls</h2>
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/ajgrande924/go-tls"><img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/ajgrande924/go-tls" height="20"/></a>
   <a href="https://github.com/ajgrande924/go-tls/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/ajgrande924/go-tls.svg" height="20"/></a>
@@ -67,4 +67,4 @@ curl: (35) error:14094412:SSL routines:SSL3_READ_BYTES:sslv3 alert bad certifica
 
 ## License
 
-`@ajdev/go-tls` is under MIT license. See the [LICENSE](LICENSE) file for details.
+`ajgrande924/go-tls` is under MIT license. See the [LICENSE](LICENSE) file for details.
