@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajgrande924/go-tls/master/assets/logo_readme.png" alt="Logo" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/ajgrande924/go-tls/main/assets/logo_readme.png" alt="Logo" width="100" height="100" />
 </p>
 <h2 align="center">ajgrande924/go-tls</h2>
 <p align="center">
